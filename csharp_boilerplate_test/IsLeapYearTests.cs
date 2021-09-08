@@ -37,5 +37,11 @@ namespace csharp_boilerplate_test
 
             Assert.Equal(true, actual);
         }
+
+        [Fact]
+        public void if_year_is_less_than_1582_throw()
+        {
+            Assert.Throws<ArgumentException>(() => Calender.isLeapYear(1500));
+        }
     }
 }
