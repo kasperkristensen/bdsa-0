@@ -1,0 +1,15 @@
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/bin/Debug/net5.0/csharp_boilerplate.deps.json
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/bin/Debug/net5.0/csharp_boilerplate.runtimeconfig.json
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/bin/Debug/net5.0/csharp_boilerplate.runtimeconfig.dev.json
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/bin/Debug/net5.0/csharp_boilerplate.dll
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/bin/Debug/net5.0/ref/csharp_boilerplate.dll
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/bin/Debug/net5.0/csharp_boilerplate.pdb
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/obj/Debug/net5.0/csharp_boilerplate.csproj.AssemblyReference.cache
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/obj/Debug/net5.0/csharp_boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/obj/Debug/net5.0/csharp_boilerplate.AssemblyInfoInputs.cache
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/obj/Debug/net5.0/csharp_boilerplate.AssemblyInfo.cs
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/obj/Debug/net5.0/csharp_boilerplate.csproj.CoreCompileInputs.cache
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/obj/Debug/net5.0/csharp_boilerplate.dll
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/obj/Debug/net5.0/ref/csharp_boilerplate.dll
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/obj/Debug/net5.0/csharp_boilerplate.pdb
+/Users/kasperf.kristensen/school_work/BDSA/assignments/assignment_0/csharp_boilerplate/obj/Debug/net5.0/csharp_boilerplate.genruntimeconfig.cache

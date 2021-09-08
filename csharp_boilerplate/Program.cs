@@ -6,7 +6,10 @@ namespace csharp_boilerplate
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Enter a year:");
+            var year = Console.ReadLine();
+
+            Console.WriteLine(year + "is a valid leap year");
         }
     }
 }
