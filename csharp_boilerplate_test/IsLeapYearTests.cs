@@ -11,7 +11,7 @@ namespace csharp_boilerplate_test
         {
             bool actual = Calender.isLeapYear(2024);
 
-            Assert.Equal(actual, true);
+            Assert.Equal(true, actual);
         }
 
         [Fact]
@@ -19,7 +19,7 @@ namespace csharp_boilerplate_test
         {
             bool actual = Calender.isLeapYear(2019);
 
-            Assert.Equal(actual, false);
+            Assert.Equal(false, actual);
         }
 
         [Fact]
@@ -27,7 +27,7 @@ namespace csharp_boilerplate_test
         {
             bool actual = Calender.isLeapYear(1800);
 
-            Assert.Equal(actual, false);
+            Assert.Equal(false, actual);
         }
 
         [Fact]
@@ -35,7 +35,7 @@ namespace csharp_boilerplate_test
         {
             bool actual = Calender.isLeapYear(2000);
 
-            Assert.Equal(actual, true);
+            Assert.Equal(true, actual);
         }
     }
 }

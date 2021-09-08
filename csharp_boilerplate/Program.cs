@@ -7,9 +7,9 @@ namespace csharp_boilerplate
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a year:");
-            var year = Console.ReadLine();
+            var year = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine(year + "is a valid leap year");
+            Console.WriteLine(Calender.isLeapYear(year) ? "yay" : "nay");
         }
     }
 }
